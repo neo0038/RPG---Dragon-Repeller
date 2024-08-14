@@ -32,10 +32,10 @@ To run **Dragon Repeller** locally on your machine, follow these steps:
    ```bash
    git clone https://github.com/neo0038/dragon-repeller.git
 Navigate to the project directory:
-
+```bash
 cd dragon-repeller
 Open index.html in your preferred web browser:
-
+```bash
 open index.html
 No additional dependencies are required.
 
