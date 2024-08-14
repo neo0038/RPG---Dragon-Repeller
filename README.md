@@ -30,7 +30,7 @@ To run **Dragon Repeller** locally on your machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dragon-repeller.git
+   git clone https://github.com/neo0038/dragon-repeller.git
 Navigate to the project directory:
 bash
 Copy code
