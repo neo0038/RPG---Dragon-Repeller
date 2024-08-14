@@ -35,10 +35,10 @@ Navigate to the project directory:
 ```bash
 cd dragon-repeller
 Open index.html in your preferred web browser:
-```bash
+```
 open index.html
 No additional dependencies are required.
-```
+
 How to Play
 Start the game by opening the index.html file in your browser.
 Use the buttons to navigate between locations:
